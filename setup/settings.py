@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
+
     'apps.galeria.apps.GaleriaConfig',
     'apps.usuarios.apps.UsuariosConfig',
 
@@ -125,9 +125,9 @@ USE_TZ = True
 
 # AWS Configuração - no caso é o cloudnary
 
-AWS_ACCESS_KEY_ID = 'AKIA6AKEBCOEY5JWUOE6'
+AWS_ACCESS_KEY_ID = ''
 
-AWS_SECRET_ACCESS_KEY = 'loR0BaQ7UyrBpj5aC9z+CK/8y7V8CJvoI++Nwha3'
+AWS_SECRET_ACCESS_KEY = ''
 
 AWS_STORAGE_BUCKET_NAME = 'fotografias-alura-space'
 
