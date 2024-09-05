@@ -125,9 +125,9 @@ USE_TZ = True
 
 # AWS Configuração - no caso é o cloudnary
 
-AWS_ACCESS_KEY_ID = ''
+# AWS_ACCESS_KEY_ID = ''
 
-AWS_SECRET_ACCESS_KEY = ''
+# AWS_SECRET_ACCESS_KEY = ''
 
 AWS_STORAGE_BUCKET_NAME = 'fotografias-alura-space'
 
